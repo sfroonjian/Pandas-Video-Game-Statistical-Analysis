@@ -7,7 +7,7 @@ There is a large amount of data associated with this particular video game, so t
 1. cd into the folder you saved the files in.
 1. Run the command "jupyter notebook". This will open the folder in the Jupyter Notebook website.
 1. Open up the Heroes_Of_Pymoli.ipynb file on Jupyter Notebook.
-1. At the top, under the "Kernal" tab, click "Restart & Run All". This will run all the cells on the page and display all the graphs.
+1. At the top, under the "Kernal" tab, click "Restart & Run All". This will run all the cells on the page and display all the dataframes.
 
 ### Data Collected:
 ![](total_players.png)
